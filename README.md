@@ -18,6 +18,6 @@ This is the way to install this script
 
 It will take time about +30min 
 
-Thank you to use my script (If occured a error or fail just send a issue)
+Thank you to use my script (If occured a error or fail just send a issue) :)
 
 
