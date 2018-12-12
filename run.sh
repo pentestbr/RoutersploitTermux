@@ -1,4 +1,5 @@
 echo ==Installing Routersploit==
+cd $HOME
 sleep 2
 apt update && apt upgrade
 sleep 1
